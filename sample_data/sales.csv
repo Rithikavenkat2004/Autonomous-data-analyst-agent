@@ -1,0 +1,501 @@
+order_id,order_date,product_category,region,units_sold,unit_price,customer_type
+1001,2024-01-01,Books,North,2,39.73,New
+1002,2024-01-01,Home & Kitchen,South,2,239.12,Returning
+1003,2024-01-04,Beauty,East,3,41.62,New
+1004,2024-01-06,Sports,West,5,243.35,Returning
+1005,2024-01-06,Home & Kitchen,East,1,217.83,Returning
+1006,2024-01-07,Electronics,South,2,574.14,Returning
+1007,2024-01-07,Beauty,South,1,70.22,Returning
+1008,2024-01-08,Electronics,Central,2,666.83,Returning
+1009,2024-01-08,Sports,South,2,219.98,Returning
+1010,2024-01-09,Clothing,North,3,84.32,New
+1011,2024-01-09,Books,North,3,41.49,New
+1012,2024-01-09,Sports,Central,1,183.01,Returning
+1013,2024-01-11,Electronics,North,1,858.69,Returning
+1014,2024-01-11,Clothing,West,3,20.9,New
+1015,2024-01-12,Books,Central,3,18.95,New
+1016,2024-01-15,Sports,East,6,180.45,Returning
+1017,2024-01-15,Sports,Central,1,232.5,New
+1018,2024-01-15,Sports,West,2,214.04,Returning
+1019,2024-01-16,Electronics,East,2,589.92,Returning
+1020,2024-01-18,Clothing,West,5,56.45,New
+1021,2024-01-20,Beauty,South,1,72.99,New
+1022,2024-01-20,Electronics,Central,5,689.95,New
+1023,2024-01-21,Books,North,1,10.5,New
+1024,2024-01-22,Home & Kitchen,Central,3,243.96,Returning
+1025,2024-01-22,Sports,West,4,147.49,Returning
+1026,2024-01-23,Beauty,North,2,68.81,Returning
+1027,2024-01-24,Home & Kitchen,South,2,165.01,New
+1028,2024-01-25,Electronics,North,3,456.15,Returning
+1029,2024-01-26,Beauty,West,3,55.27,New
+1030,2024-01-27,Beauty,East,6,30.09,Returning
+1031,2024-01-28,Clothing,East,1,71.08,New
+1032,2024-01-29,Home & Kitchen,Central,4,114.18,New
+1033,2024-01-29,Electronics,West,4,530.81,Returning
+1034,2024-01-29,Clothing,North,2,40.32,New
+1035,2024-01-30,Electronics,East,5,682.97,Returning
+1036,2024-01-31,Books,South,5,37.04,Returning
+1037,2024-01-31,Clothing,South,5,65.54,Returning
+1038,2024-02-01,Sports,South,1,129.39,New
+1039,2024-02-02,Books,North,4,15.61,Returning
+1040,2024-02-02,Electronics,South,2,732.66,Returning
+1041,2024-02-04,Electronics,East,1,311.17,Returning
+1042,2024-02-04,Books,South,8,11.17,Returning
+1043,2024-02-05,Books,East,1,28.02,Returning
+1044,2024-02-05,Beauty,Central,1,38.93,Returning
+1045,2024-02-05,Clothing,Central,2,23.99,Returning
+1046,2024-02-05,Sports,South,5,136.8,New
+1047,2024-02-06,Electronics,North,5,823.34,New
+1048,2024-02-07,Books,East,2,29.88,Returning
+1049,2024-02-07,Electronics,North,10,897.76,Returning
+1050,2024-02-08,Books,East,1,20.53,Returning
+1051,2024-02-08,Home & Kitchen,South,4,67.04,New
+1052,2024-02-08,Electronics,North,1,809.35,New
+1053,2024-02-09,Home & Kitchen,South,1,223.08,Returning
+1054,2024-02-09,Electronics,West,1,132.84,Returning
+1055,2024-02-09,Sports,South,2,183.92,Returning
+1056,2024-02-10,Electronics,Central,1,221.14,Returning
+1057,2024-02-11,Books,North,2,21.84,New
+1058,2024-02-12,Books,Central,4,31.56,Returning
+1059,2024-02-13,Electronics,East,3,748.84,Returning
+1060,2024-02-14,Beauty,East,2,80.62,Returning
+1061,2024-02-16,Books,East,2,35.94,Returning
+1062,2024-02-16,Books,North,1,38.77,New
+1063,2024-02-16,Home & Kitchen,South,5,152.42,Returning
+1064,2024-02-16,Books,East,2,44.91,New
+1065,2024-02-16,Home & Kitchen,South,5,144.87,Returning
+1066,2024-02-17,Books,East,5,40.15,Returning
+1067,2024-02-17,Beauty,North,4,78.66,Returning
+1068,2024-02-17,Sports,North,5,249.83,New
+1069,2024-02-20,Books,Central,2,13.72,Returning
+1070,2024-02-20,Books,East,8,10.23,Returning
+1071,2024-02-21,Clothing,South,4,58.4,New
+1072,2024-02-21,Books,South,1,13.09,New
+1073,2024-02-21,Home & Kitchen,North,2,284.03,New
+1074,2024-02-21,Clothing,West,1,61.45,Returning
+1075,2024-02-22,Beauty,South,3,65.25,New
+1076,2024-02-22,Home & Kitchen,North,3,265.38,Returning
+1077,2024-02-22,Beauty,North,1,32.0,New
+1078,2024-02-22,Home & Kitchen,North,1,82.77,Returning
+1079,2024-02-24,Books,South,6,33.44,New
+1080,2024-02-24,Clothing,East,3,15.97,Returning
+1081,2024-02-25,Electronics,North,2,776.84,Returning
+1082,2024-02-25,Electronics,Central,2,222.78,Returning
+1083,2024-02-26,Home & Kitchen,North,6,186.32,New
+1084,2024-02-28,Sports,West,2,183.18,Returning
+1085,2024-02-28,Electronics,South,2,200.41,New
+1086,2024-02-29,Clothing,East,3,108.9,Returning
+1087,2024-03-01,Electronics,South,2,829.34,Returning
+1088,2024-03-03,Sports,North,2,149.16,Returning
+1089,2024-03-03,Clothing,East,1,26.15,Returning
+1090,2024-03-05,Books,North,1,19.92,Returning
+1091,2024-03-05,Electronics,South,2,641.47,Returning
+1092,2024-03-05,Clothing,Central,2,20.31,Returning
+1093,2024-03-06,Sports,North,1,153.98,Returning
+1094,2024-03-06,Electronics,North,3,257.2,Returning
+1095,2024-03-07,Clothing,Central,1,105.13,New
+1096,2024-03-07,Books,East,2,18.49,New
+1097,2024-03-08,Electronics,East,2,889.52,Returning
+1098,2024-03-08,Sports,Central,4,97.46,New
+1099,2024-03-09,Home & Kitchen,East,2,201.36,Returning
+1100,2024-03-09,Beauty,Central,7,63.07,New
+1101,2024-03-09,Beauty,West,1,10.65,New
+1102,2024-03-11,Sports,West,1,189.24,Returning
+1103,2024-03-12,Electronics,Central,2,380.23,Returning
+1104,2024-03-13,Sports,South,8,241.07,Returning
+1105,2024-03-14,Electronics,West,1,827.35,New
+1106,2024-03-15,Electronics,East,3,770.34,Returning
+1107,2024-03-18,Electronics,West,3,560.62,Returning
+1108,2024-03-18,Electronics,West,10,603.56,New
+1109,2024-03-19,Beauty,East,1,85.96,New
+1110,2024-03-19,Sports,North,7,58.79,Returning
+1111,2024-03-19,Beauty,North,1,35.0,New
+1112,2024-03-22,Clothing,East,1,90.72,Returning
+1113,2024-03-24,Beauty,North,4,23.69,Returning
+1114,2024-03-24,Home & Kitchen,South,4,290.03,Returning
+1115,2024-03-25,Electronics,West,2,642.31,New
+1116,2024-03-25,Clothing,South,3,87.75,New
+1117,2024-03-26,Electronics,North,2,449.58,New
+1118,2024-03-29,Clothing,Central,2,98.73,Returning
+1119,2024-03-29,Sports,East,2,130.03,Returning
+1120,2024-03-30,Clothing,South,3,113.74,Returning
+1121,2024-03-30,Home & Kitchen,North,4,187.71,Returning
+1122,2024-03-30,Home & Kitchen,South,4,106.16,New
+1123,2024-03-31,Electronics,East,1,260.17,Returning
+1124,2024-04-01,Home & Kitchen,North,2,216.91,Returning
+1125,2024-04-04,Sports,East,1,113.9,Returning
+1126,2024-04-04,Sports,West,2,73.33,Returning
+1127,2024-04-05,Sports,West,2,51.71,Returning
+1128,2024-04-07,Home & Kitchen,North,1,257.96,Returning
+1129,2024-04-08,Beauty,West,1,30.11,New
+1130,2024-04-09,Sports,North,2,238.92,Returning
+1131,2024-04-10,Clothing,West,10,117.05,New
+1132,2024-04-12,Clothing,South,1,68.42,Returning
+1133,2024-04-13,Books,East,1,18.06,New
+1134,2024-04-13,Clothing,North,1,114.08,Returning
+1135,2024-04-19,Electronics,West,2,113.58,Returning
+1136,2024-04-19,Sports,Central,2,169.5,New
+1137,2024-04-21,Beauty,Central,1,48.93,Returning
+1138,2024-04-21,Sports,West,3,84.34,Returning
+1139,2024-04-22,Electronics,Central,2,618.91,New
+1140,2024-04-23,Home & Kitchen,South,3,64.4,New
+1141,2024-04-23,Books,North,1,13.17,Returning
+1142,2024-04-26,Electronics,East,4,430.19,Returning
+1143,2024-04-26,Clothing,South,2,63.33,Returning
+1144,2024-04-26,Home & Kitchen,North,2,240.48,Returning
+1145,2024-04-27,Beauty,West,4,82.23,Returning
+1146,2024-04-28,Electronics,West,1,574.05,Returning
+1147,2024-04-29,Clothing,North,3,73.19,Returning
+1148,2024-04-29,Sports,North,1,27.31,Returning
+1149,2024-04-30,Home & Kitchen,East,5,250.21,Returning
+1150,2024-05-01,Sports,West,6,192.38,Returning
+1151,2024-05-01,Clothing,North,1,17.71,Returning
+1152,2024-05-02,Clothing,West,6,20.73,New
+1153,2024-05-03,Clothing,North,3,57.67,New
+1154,2024-05-04,Sports,West,1,148.18,Returning
+1155,2024-05-05,Books,West,2,29.92,Returning
+1156,2024-05-05,Books,East,2,20.21,New
+1157,2024-05-05,Sports,East,1,100.27,New
+1158,2024-05-05,Clothing,East,1,35.91,New
+1159,2024-05-06,Sports,West,5,204.46,Returning
+1160,2024-05-07,Books,North,16,13.2,New
+1161,2024-05-11,Sports,East,5,230.1,Returning
+1162,2024-05-12,Books,East,1,23.93,Returning
+1163,2024-05-13,Sports,North,2,154.24,Returning
+1164,2024-05-13,Sports,North,1,241.77,Returning
+1165,2024-05-14,Books,East,1,20.34,New
+1166,2024-05-14,Electronics,North,2,442.46,New
+1167,2024-05-14,Clothing,East,2,53.79,Returning
+1168,2024-05-15,Clothing,West,4,90.81,Returning
+1169,2024-05-15,Sports,South,2,129.31,New
+1170,2024-05-16,Clothing,West,4,53.57,Returning
+1171,2024-05-16,Clothing,West,1,38.6,New
+1172,2024-05-17,Clothing,Central,1,86.96,Returning
+1173,2024-05-17,Beauty,East,4,20.15,New
+1174,2024-05-18,Clothing,South,3,87.69,Returning
+1175,2024-05-19,Beauty,Central,2,81.82,Returning
+1176,2024-05-19,Books,North,2,19.25,Returning
+1177,2024-05-20,Electronics,North,1,428.07,Returning
+1178,2024-05-21,Clothing,West,5,93.94,Returning
+1179,2024-05-22,Beauty,South,1,32.29,New
+1180,2024-05-22,Home & Kitchen,North,2,68.91,Returning
+1181,2024-05-23,Home & Kitchen,West,2,240.04,Returning
+1182,2024-05-24,Clothing,East,2,74.89,Returning
+1183,2024-05-25,Beauty,North,4,58.08,New
+1184,2024-05-26,Books,West,1,35.97,Returning
+1185,2024-05-26,Sports,West,1,83.16,Returning
+1186,2024-05-28,Beauty,East,2,66.76,Returning
+1187,2024-05-29,Sports,East,8,58.73,Returning
+1188,2024-05-29,Books,South,4,9.14,New
+1189,2024-05-30,Electronics,Central,2,713.88,Returning
+1190,2024-05-30,Clothing,Central,4,54.73,Returning
+1191,2024-05-30,Beauty,South,40,15.9,New
+1192,2024-05-31,Sports,Central,5,245.52,Returning
+1193,2024-06-01,Sports,South,6,107.49,Returning
+1194,2024-06-02,Sports,East,4,247.84,New
+1195,2024-06-02,Beauty,South,1,41.7,Returning
+1196,2024-06-02,Beauty,East,3,41.66,New
+1197,2024-06-03,Sports,North,3,229.01,Returning
+1198,2024-06-03,Books,South,6,41.65,Returning
+1199,2024-06-04,Sports,West,3,66.15,New
+1200,2024-06-06,Beauty,North,3,10.12,Returning
+1201,2024-06-06,Books,North,9,21.43,New
+1202,2024-06-07,Electronics,South,1,419.36,Returning
+1203,2024-06-08,Books,North,1,42.81,New
+1204,2024-06-08,Books,North,4,40.04,Returning
+1205,2024-06-09,Beauty,West,1,35.62,Returning
+1206,2024-06-10,Sports,South,1,132.62,Returning
+1207,2024-06-10,Electronics,East,5,549.81,Returning
+1208,2024-06-10,Home & Kitchen,West,2,176.28,Returning
+1209,2024-06-12,Books,South,2,10.88,New
+1210,2024-06-12,Home & Kitchen,Central,1,131.8,Returning
+1211,2024-06-13,Home & Kitchen,South,1,61.49,Returning
+1212,2024-06-14,Books,West,2,9.47,New
+1213,2024-06-15,Electronics,West,1,338.57,New
+1214,2024-06-15,Electronics,North,3,542.38,New
+1215,2024-06-16,Beauty,East,1,65.75,Returning
+1216,2024-06-16,Books,South,1,14.72,Returning
+1217,2024-06-17,Home & Kitchen,Central,2,198.49,New
+1218,2024-06-18,Beauty,South,1,44.74,Returning
+1219,2024-06-22,Sports,Central,2,244.27,New
+1220,2024-06-22,Home & Kitchen,North,2,218.24,New
+1221,2024-06-24,Electronics,East,1,667.62,New
+1222,2024-06-24,Electronics,Central,1,324.41,New
+1223,2024-06-25,Sports,South,4,185.22,New
+1224,2024-06-25,Books,East,4,8.6,New
+1225,2024-06-26,Beauty,South,1,65.14,Returning
+1226,2024-06-26,Electronics,North,1,660.2,Returning
+1227,2024-06-26,Sports,West,1,209.37,Returning
+1228,2024-06-27,Sports,East,3,160.6,Returning
+1229,2024-06-27,Books,North,2,16.22,Returning
+1230,2024-06-28,Electronics,West,10,530.54,New
+1231,2024-06-29,Sports,South,1,86.99,Returning
+1232,2024-06-30,Home & Kitchen,North,2,114.38,Returning
+1233,2024-06-30,Beauty,West,2,40.62,Returning
+1234,2024-06-30,Electronics,Central,2,252.55,New
+1235,2024-07-04,Home & Kitchen,South,5,194.98,Returning
+1236,2024-07-06,Home & Kitchen,East,1,46.14,Returning
+1237,2024-07-06,Electronics,Central,5,719.09,New
+1238,2024-07-07,Clothing,West,1,99.63,New
+1239,2024-07-07,Beauty,East,7,61.1,Returning
+1240,2024-07-07,Electronics,North,3,698.84,Returning
+1241,2024-07-08,Electronics,Central,2,434.87,New
+1242,2024-07-09,Books,North,2,11.16,New
+1243,2024-07-10,Beauty,South,1,29.09,New
+1244,2024-07-10,Clothing,South,9,62.77,Returning
+1245,2024-07-10,Beauty,Central,1,65.01,Returning
+1246,2024-07-11,Electronics,Central,3,348.57,New
+1247,2024-07-11,Books,South,2,42.71,Returning
+1248,2024-07-12,Home & Kitchen,South,2,67.39,New
+1249,2024-07-12,Beauty,West,2,81.31,New
+1250,2024-07-13,Clothing,West,4,72.97,Returning
+1251,2024-07-13,Clothing,East,5,104.81,Returning
+1252,2024-07-13,Beauty,North,5,78.19,Returning
+1253,2024-07-14,Electronics,West,1,698.21,New
+1254,2024-07-15,Home & Kitchen,East,1,47.16,Returning
+1255,2024-07-16,Electronics,East,2,419.02,Returning
+1256,2024-07-17,Sports,Central,6,103.7,Returning
+1257,2024-07-20,Books,North,3,26.7,Returning
+1258,2024-07-20,Sports,West,1,90.96,Returning
+1259,2024-07-21,Beauty,East,2,55.88,New
+1260,2024-07-21,Clothing,West,20,99.48,Returning
+1261,2024-07-22,Home & Kitchen,Central,2,80.23,Returning
+1262,2024-07-22,Clothing,West,6,33.46,Returning
+1263,2024-07-26,Home & Kitchen,South,2,57.51,New
+1264,2024-07-26,Beauty,West,1,11.38,Returning
+1265,2024-07-27,Sports,North,2,57.81,New
+1266,2024-07-29,Electronics,West,3,220.15,New
+1267,2024-07-29,Books,East,1,11.87,New
+1268,2024-07-29,Home & Kitchen,South,2,90.67,Returning
+1269,2024-07-29,Clothing,West,2,92.34,New
+1270,2024-07-29,Home & Kitchen,Central,1,211.81,Returning
+1271,2024-07-31,Clothing,West,4,45.65,Returning
+1272,2024-07-31,Beauty,South,2,42.61,New
+1273,2024-07-31,Electronics,East,3,438.21,Returning
+1274,2024-07-31,Beauty,West,1,56.19,Returning
+1275,2024-08-01,Sports,East,3,77.08,New
+1276,2024-08-02,Electronics,East,6,410.99,New
+1277,2024-08-03,Home & Kitchen,East,4,129.26,Returning
+1278,2024-08-03,Books,East,1,31.96,New
+1279,2024-08-04,Electronics,West,2,726.26,New
+1280,2024-08-04,Books,Central,4,34.37,New
+1281,2024-08-06,Electronics,North,2,335.51,New
+1282,2024-08-07,Clothing,South,4,71.59,Returning
+1283,2024-08-07,Sports,East,1,84.07,New
+1284,2024-08-07,Books,East,2,37.44,Returning
+1285,2024-08-08,Clothing,West,1,34.99,Returning
+1286,2024-08-08,Home & Kitchen,West,1,25.11,Returning
+1287,2024-08-12,Home & Kitchen,North,5,120.86,Returning
+1288,2024-08-12,Home & Kitchen,North,1,72.45,Returning
+1289,2024-08-12,Sports,North,4,126.17,Returning
+1290,2024-08-13,Sports,Central,2,243.32,New
+1291,2024-08-13,Clothing,North,2,82.87,Returning
+1292,2024-08-14,Electronics,South,2,597.11,Returning
+1293,2024-08-14,Books,South,6,17.24,New
+1294,2024-08-14,Clothing,East,1,115.31,New
+1295,2024-08-15,Books,South,2,39.55,New
+1296,2024-08-15,Books,East,7,11.39,New
+1297,2024-08-16,Beauty,South,6,49.11,Returning
+1298,2024-08-17,Home & Kitchen,West,4,63.17,Returning
+1299,2024-08-18,Books,Central,3,43.98,New
+1300,2024-08-18,Beauty,West,6,68.99,New
+1301,2024-08-20,Books,East,5,12.52,New
+1302,2024-08-20,Sports,South,2,224.26,Returning
+1303,2024-08-22,Home & Kitchen,South,6,133.8,Returning
+1304,2024-08-22,Books,East,1,12.17,New
+1305,2024-08-24,Books,South,1,24.9,Returning
+1306,2024-08-25,Clothing,South,8,94.4,Returning
+1307,2024-08-25,Books,South,4,19.13,Returning
+1308,2024-08-25,Books,North,2,13.85,Returning
+1309,2024-08-26,Beauty,East,6,38.77,New
+1310,2024-08-26,Clothing,South,7,27.01,Returning
+1311,2024-08-28,Beauty,West,8,29.13,New
+1312,2024-08-28,Sports,Central,1,136.75,Returning
+1313,2024-08-29,Sports,North,1,218.47,New
+1314,2024-08-30,Sports,East,1,121.7,Returning
+1315,2024-08-30,Electronics,North,8,609.55,New
+1316,2024-08-31,Books,Central,5,27.81,Returning
+1317,2024-09-01,Books,West,1,14.82,Returning
+1318,2024-09-01,Sports,Central,1,92.13,New
+1319,2024-09-02,Home & Kitchen,East,2,214.82,Returning
+1320,2024-09-02,Home & Kitchen,South,9,213.29,Returning
+1321,2024-09-04,Books,East,7,31.6,New
+1322,2024-09-04,Beauty,Central,1,65.21,Returning
+1323,2024-09-04,Beauty,Central,10,22.06,Returning
+1324,2024-09-04,Books,East,10,19.18,Returning
+1325,2024-09-04,Books,South,2,24.08,New
+1326,2024-09-08,Home & Kitchen,South,2,133.05,New
+1327,2024-09-09,Home & Kitchen,Central,1,179.85,Returning
+1328,2024-09-09,Books,North,2,43.01,New
+1329,2024-09-10,Clothing,Central,3,96.98,New
+1330,2024-09-11,Clothing,South,1,45.39,Returning
+1331,2024-09-12,Beauty,East,4,19.08,New
+1332,2024-09-12,Beauty,North,2,73.65,Returning
+1333,2024-09-13,Books,North,1,40.41,Returning
+1334,2024-09-14,Books,West,1,26.99,Returning
+1335,2024-09-16,Clothing,North,2,97.95,New
+1336,2024-09-19,Sports,North,1,195.52,New
+1337,2024-09-20,Beauty,East,1,51.55,Returning
+1338,2024-09-20,Clothing,Central,5,109.19,Returning
+1339,2024-09-21,Electronics,Central,1,141.14,Returning
+1340,2024-09-21,Home & Kitchen,West,2,203.72,Returning
+1341,2024-09-22,Clothing,West,5,106.16,Returning
+1342,2024-09-22,Beauty,East,1,71.05,Returning
+1343,2024-09-22,Beauty,North,2,62.67,Returning
+1344,2024-09-22,Clothing,South,2,89.48,New
+1345,2024-09-23,Sports,Central,1,143.43,New
+1346,2024-09-26,Electronics,North,4,898.68,New
+1347,2024-09-27,Books,East,1,39.74,Returning
+1348,2024-09-28,Clothing,East,3,23.02,Returning
+1349,2024-09-28,Beauty,Central,10,36.01,Returning
+1350,2024-10-01,Books,East,1,12.04,Returning
+1351,2024-10-02,Clothing,Central,5,43.36,Returning
+1352,2024-10-02,Beauty,Central,1,78.82,New
+1353,2024-10-03,Sports,South,3,215.37,Returning
+1354,2024-10-04,Sports,South,1,234.45,New
+1355,2024-10-04,Electronics,West,1,758.94,Returning
+1356,2024-10-05,Clothing,West,3,51.24,Returning
+1357,2024-10-05,Sports,North,2,199.84,Returning
+1358,2024-10-05,Clothing,North,2,47.56,New
+1359,2024-10-06,Home & Kitchen,South,2,255.72,New
+1360,2024-10-06,Books,South,1,21.03,Returning
+1361,2024-10-06,Books,East,3,28.86,New
+1362,2024-10-06,Beauty,West,5,58.2,New
+1363,2024-10-07,Books,Central,2,41.0,Returning
+1364,2024-10-08,Clothing,North,3,104.73,Returning
+1365,2024-10-08,Home & Kitchen,Central,2,131.25,New
+1366,2024-10-08,Home & Kitchen,Central,2,177.21,New
+1367,2024-10-09,Clothing,West,2,73.17,New
+1368,2024-10-09,Electronics,West,2,877.49,Returning
+1369,2024-10-09,Clothing,South,1,23.52,New
+1370,2024-10-09,Beauty,South,2,69.24,Returning
+1371,2024-10-11,Home & Kitchen,North,2,76.53,New
+1372,2024-10-12,Clothing,South,2,88.07,Returning
+1373,2024-10-12,Beauty,East,1,25.38,Returning
+1374,2024-10-13,Electronics,West,2,470.71,New
+1375,2024-10-13,Electronics,East,4,722.34,Returning
+1376,2024-10-14,Beauty,West,1,76.24,New
+1377,2024-10-14,Home & Kitchen,North,3,154.66,Returning
+1378,2024-10-15,Sports,North,2,141.48,Returning
+1379,2024-10-16,Sports,East,1,242.53,Returning
+1380,2024-10-16,Home & Kitchen,East,2,65.03,New
+1381,2024-10-17,Sports,North,1,137.48,Returning
+1382,2024-10-17,Beauty,North,2,85.9,Returning
+1383,2024-10-17,Electronics,East,6,151.95,Returning
+1384,2024-10-18,Beauty,East,2,39.27,Returning
+1385,2024-10-18,Electronics,North,4,345.09,New
+1386,2024-10-19,Home & Kitchen,West,7,61.39,New
+1387,2024-10-20,Home & Kitchen,North,1,151.77,New
+1388,2024-10-20,Clothing,West,20,115.17,Returning
+1389,2024-10-21,Books,West,3,29.61,Returning
+1390,2024-10-22,Books,West,5,21.89,New
+1391,2024-10-22,Beauty,East,1,88.74,Returning
+1392,2024-10-23,Home & Kitchen,North,4,249.52,New
+1393,2024-10-23,Sports,West,8,170.79,New
+1394,2024-10-23,Beauty,South,3,85.33,Returning
+1395,2024-10-26,Sports,South,3,23.73,Returning
+1396,2024-10-26,Electronics,East,2,892.23,New
+1397,2024-10-27,Sports,East,3,210.68,New
+1398,2024-10-27,Books,Central,1,40.32,Returning
+1399,2024-10-27,Books,East,1,42.69,Returning
+1400,2024-10-27,Home & Kitchen,Central,2,146.48,New
+1401,2024-10-27,Electronics,North,5,638.44,New
+1402,2024-10-28,Clothing,South,3,17.21,New
+1403,2024-10-29,Beauty,South,2,12.96,Returning
+1404,2024-10-30,Sports,North,3,45.5,New
+1405,2024-10-31,Books,South,4,20.6,Returning
+1406,2024-10-31,Home & Kitchen,West,5,249.26,New
+1407,2024-11-01,Home & Kitchen,South,1,295.48,Returning
+1408,2024-11-01,Clothing,South,1,20.11,Returning
+1409,2024-11-02,Books,South,1,13.35,Returning
+1410,2024-11-02,Home & Kitchen,South,2,226.17,Returning
+1411,2024-11-03,Beauty,West,8,67.68,Returning
+1412,2024-11-03,Home & Kitchen,North,3,106.0,Returning
+1413,2024-11-04,Beauty,West,3,67.9,New
+1414,2024-11-05,Home & Kitchen,North,5,51.6,New
+1415,2024-11-05,Sports,Central,1,57.27,Returning
+1416,2024-11-07,Sports,North,3,88.64,Returning
+1417,2024-11-07,Electronics,North,2,766.97,New
+1418,2024-11-08,Electronics,West,8,674.67,New
+1419,2024-11-08,Electronics,East,2,294.09,Returning
+1420,2024-11-09,Sports,North,2,79.87,New
+1421,2024-11-10,Books,East,6,34.89,Returning
+1422,2024-11-10,Beauty,East,3,87.5,New
+1423,2024-11-10,Books,Central,5,32.92,New
+1424,2024-11-11,Home & Kitchen,East,2,223.25,Returning
+1425,2024-11-11,Clothing,South,2,45.47,New
+1426,2024-11-12,Books,West,2,29.68,New
+1427,2024-11-12,Home & Kitchen,Central,1,267.92,Returning
+1428,2024-11-12,Beauty,Central,3,26.86,New
+1429,2024-11-13,Beauty,North,3,23.64,Returning
+1430,2024-11-13,Electronics,South,2,858.06,New
+1431,2024-11-13,Clothing,East,1,107.76,New
+1432,2024-11-13,Beauty,South,3,32.7,Returning
+1433,2024-11-15,Beauty,South,1,72.52,New
+1434,2024-11-16,Electronics,East,1,864.08,New
+1435,2024-11-16,Books,East,1,36.2,Returning
+1436,2024-11-16,Home & Kitchen,West,1,89.19,New
+1437,2024-11-18,Clothing,West,2,107.89,New
+1438,2024-11-19,Beauty,West,1,12.87,Returning
+1439,2024-11-20,Clothing,North,4,31.19,New
+1440,2024-11-20,Clothing,South,1,57.08,Returning
+1441,2024-11-20,Home & Kitchen,South,1,144.34,Returning
+1442,2024-11-23,Electronics,East,1,196.48,New
+1443,2024-11-23,Home & Kitchen,South,2,226.4,Returning
+1444,2024-11-24,Books,North,1,14.66,New
+1445,2024-11-24,Home & Kitchen,West,1,271.09,Returning
+1446,2024-11-24,Beauty,East,8,75.73,New
+1447,2024-11-26,Clothing,East,2,87.0,New
+1448,2024-11-26,Books,West,3,10.0,Returning
+1449,2024-11-26,Clothing,East,3,79.33,New
+1450,2024-11-28,Clothing,South,3,56.03,Returning
+1451,2024-11-28,Home & Kitchen,North,2,93.86,Returning
+1452,2024-11-30,Clothing,North,1,117.68,Returning
+1453,2024-11-30,Electronics,West,1,890.82,Returning
+1454,2024-11-30,Clothing,West,3,88.87,Returning
+1455,2024-12-01,Sports,Central,1,202.41,Returning
+1456,2024-12-01,Home & Kitchen,North,2,63.89,Returning
+1457,2024-12-01,Clothing,South,3,105.04,Returning
+1458,2024-12-01,Electronics,South,1,788.71,New
+1459,2024-12-02,Books,North,2,30.53,Returning
+1460,2024-12-02,Sports,Central,3,148.05,Returning
+1461,2024-12-03,Electronics,East,3,768.98,Returning
+1462,2024-12-03,Home & Kitchen,South,3,195.75,Returning
+1463,2024-12-05,Clothing,Central,30,110.23,Returning
+1464,2024-12-05,Beauty,West,2,74.91,Returning
+1465,2024-12-05,Books,North,3,42.07,Returning
+1466,2024-12-07,Sports,South,16,166.72,New
+1467,2024-12-08,Clothing,South,2,88.89,New
+1468,2024-12-08,Sports,North,1,212.99,Returning
+1469,2024-12-08,Clothing,North,1,76.62,Returning
+1470,2024-12-09,Books,Central,7,43.97,Returning
+1471,2024-12-09,Electronics,West,2,839.46,New
+1472,2024-12-09,Sports,South,1,65.33,New
+1473,2024-12-11,Beauty,South,1,36.97,New
+1474,2024-12-12,Clothing,West,1,94.08,Returning
+1475,2024-12-13,Home & Kitchen,North,2,200.32,New
+1476,2024-12-14,Sports,East,5,175.45,Returning
+1477,2024-12-14,Electronics,South,1,205.16,Returning
+1478,2024-12-14,Beauty,West,3,55.1,Returning
+1479,2024-12-15,Clothing,South,2,79.0,New
+1480,2024-12-16,Books,Central,2,43.4,New
+1481,2024-12-16,Home & Kitchen,South,4,252.96,Returning
+1482,2024-12-18,Beauty,North,4,56.7,Returning
+1483,2024-12-19,Books,Central,1,28.75,Returning
+1484,2024-12-19,Sports,West,4,233.65,Returning
+1485,2024-12-20,Sports,West,6,142.9,Returning
+1486,2024-12-22,Home & Kitchen,South,1,180.17,Returning
+1487,2024-12-22,Sports,North,3,223.81,Returning
+1488,2024-12-22,Clothing,Central,3,62.63,New
+1489,2024-12-22,Clothing,North,6,94.2,Returning
+1490,2024-12-22,Beauty,East,2,63.35,Returning
+1491,2024-12-22,Books,North,3,23.02,New
+1492,2024-12-22,Clothing,Central,2,65.0,Returning
+1493,2024-12-23,Clothing,East,2,112.41,Returning
+1494,2024-12-24,Electronics,North,2,816.83,Returning
+1495,2024-12-24,Books,South,3,16.96,Returning
+1496,2024-12-24,Sports,South,2,166.14,Returning
+1497,2024-12-25,Beauty,East,3,38.42,New
+1498,2024-12-28,Electronics,West,5,607.47,Returning
+1499,2024-12-29,Sports,Central,2,114.1,Returning
+1500,2024-12-29,Electronics,South,3,689.09,New
